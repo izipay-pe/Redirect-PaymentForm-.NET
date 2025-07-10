@@ -47,7 +47,7 @@ Visual Studio IDE compatible con .NET.
 
 ### Clonar el proyecto
 ```sh
-git clone https://github.com/izipay-pe/Embedded-PaymentForm-.NET
+git clone https://github.com/izipay-pe/Redirect-PaymentForm-.NET
 ``` 
 
 ### Datos de conexión 
